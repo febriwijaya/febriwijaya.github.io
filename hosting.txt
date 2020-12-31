@@ -1,4 +1,4 @@
 firebase hosting
-url : https://subpwa.web.app/
+url : https://terakhir-950d0.web.app/
 github hosting
 url : https://febriwijaya.github.io
